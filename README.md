@@ -1,4 +1,4 @@
-# data-mining-on-2021_Olympics
+# data mining on 2021_Olympics dataset
 
 in this project I tried to do all datamining phases on 2021_Olympics dataset
 
