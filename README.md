@@ -37,5 +37,5 @@ for this section first we found frequent patterns and after that we found associ
 
 ******
 
-for more description of our process we prepared a report so you can refer to it and read it.
+for more description of the process I prepared a report so you can refer to it and read it.
     
